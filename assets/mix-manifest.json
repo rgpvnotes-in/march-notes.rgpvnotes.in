@@ -1,0 +1,21 @@
+{
+  "/js/manifest.js": "/js/manifest.js",
+  "/js/vendor.js": "/js/vendor.js",
+  "/js/app.js": "/js/app.js",
+  "/js/helpers.js": "/js/helpers.js",
+  "/css/app.css": "/css/app.css",
+  "/css/home.css": "/css/home.css",
+  "/css/listing.css": "/css/listing.css",
+  "/css/post.css": "/css/post.css",
+  "/css/newsletter.css": "/css/newsletter.css",
+  "/css/tags.css": "/css/tags.css",
+  "/css/404.css": "/css/404.css",
+  "/js/home.js": "/js/home.js",
+  "/js/page.js": "/js/page.js",
+  "/js/post.js": "/js/post.js",
+  "/fonts/icomoon/icomoon.eot": "/fonts/icomoon/icomoon.eot",
+  "/fonts/icomoon/icomoon.svg": "/fonts/icomoon/icomoon.svg",
+  "/fonts/icomoon/icomoon.ttf": "/fonts/icomoon/icomoon.ttf",
+  "/fonts/icomoon/icomoon.woff": "/fonts/icomoon/icomoon.woff",
+  "/js/vendor/content-api.min.js": "/js/vendor/content-api.min.js"
+}

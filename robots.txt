@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://march-notes.rgpvnotes.in/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
+Allow: /
